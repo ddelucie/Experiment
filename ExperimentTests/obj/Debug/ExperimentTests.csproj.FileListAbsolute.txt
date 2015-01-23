@@ -1,0 +1,14 @@
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\bin\Debug\ExperimentTests.dll
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\bin\Debug\ExperimentTests.pdb
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\bin\Debug\Experiment.exe
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\bin\Debug\Experiment.pdb
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\obj\Debug\ExperimentTests.csprojResolveAssemblyReference.cache
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\obj\Debug\ExperimentTests.dll
+C:\Users\ddelucie\Documents\Visual Studio 2012\Projects\Experiment\ExperimentTests\obj\Debug\ExperimentTests.pdb
+K:\Code\Experiment\ExperimentTests\bin\Debug\ExperimentTests.dll
+K:\Code\Experiment\ExperimentTests\bin\Debug\ExperimentTests.pdb
+K:\Code\Experiment\ExperimentTests\bin\Debug\Experiment.exe
+K:\Code\Experiment\ExperimentTests\bin\Debug\Experiment.pdb
+K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.csprojResolveAssemblyReference.cache
+K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.dll
+K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.pdb
