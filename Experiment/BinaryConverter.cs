@@ -44,5 +44,26 @@ namespace Experiment
 			return String.Join("",binaryNum.Reverse());
 		}
 
+
+        /// <summary>
+        /// just keep dividing by 2s until quotient is 0.
+        /// the binary result will be the remainders of each division in reverse.
+        /// </summary>
+        /// <param name="num"></param>
+        /// <returns></returns>
+        public static string Convert2(int num)
+        {
+            string binaryResult = "";
+            int quotient = num / 2;
+            while (quotient > 0)
+            {
+                binaryResult += num % 2;
+                quotient = num / 2;
+                num = quotient;
+            }
+
+            return string.Join("", binaryResult.Reverse());
+        }
+
 	}
 }
