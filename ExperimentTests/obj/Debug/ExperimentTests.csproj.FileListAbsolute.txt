@@ -12,3 +12,6 @@ K:\Code\Experiment\ExperimentTests\bin\Debug\Experiment.pdb
 K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.csprojResolveAssemblyReference.cache
 K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.dll
 K:\Code\Experiment\ExperimentTests\obj\Debug\ExperimentTests.pdb
+C:\git\Source\Repos\Experiment\ExperimentTests\obj\Debug\ExperimentTests.csprojResolveAssemblyReference.cache
+C:\git\Source\Repos\Experiment\ExperimentTests\obj\Debug\ExperimentTests.dll
+C:\git\Source\Repos\Experiment\ExperimentTests\obj\Debug\ExperimentTests.pdb

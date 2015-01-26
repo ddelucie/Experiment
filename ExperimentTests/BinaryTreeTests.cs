@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Experiment;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Experiment.DataStructures;
 
 namespace ExperimentTests
 {
