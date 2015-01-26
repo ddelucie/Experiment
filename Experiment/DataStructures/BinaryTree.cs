@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Experiment
+namespace Experiment.DataStructures
 {
 	public class TreeNode<T>
 	{

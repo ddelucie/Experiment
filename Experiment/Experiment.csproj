@@ -45,13 +45,14 @@
   <ItemGroup>
     <Compile Include="BaseClass.cs" />
     <Compile Include="BinaryConverter.cs" />
-    <Compile Include="BinaryTree.cs" />
+    <Compile Include="DataStructures\BinaryTree.cs" />
     <Compile Include="CollectionPlayground.cs" />
+    <Compile Include="DataStructures\Stack.cs" />
     <Compile Include="DynamicExperiments.cs" />
     <Compile Include="ExperimentTests.cs" />
     <Compile Include="MultipleInterface.cs" />
     <Compile Include="MyBase.cs" />
-    <Compile Include="MyLinkedList.cs" />
+    <Compile Include="DataStructures\MyLinkedList.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs">
       <SubType>Code</SubType>
