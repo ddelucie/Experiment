@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace Experiment
 {
@@ -15,5 +16,19 @@ namespace Experiment
 			}
 			return true;
 		}
+
+
+		public static bool IsAnagram(string s1, string s2)
+		{
+			char[] a1 = s1.ToCharArray();
+			char[] a2 =s2.ToCharArray();
+			Array.Sort(a1);
+			Array.Sort(a2);
+
+
+			return (a1.SequenceEqual(a2));
+
+		}
+
 	}
 }
