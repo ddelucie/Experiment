@@ -50,6 +50,7 @@
     <Compile Include="DataStructures\Stack.cs" />
     <Compile Include="DynamicExperiments.cs" />
     <Compile Include="ExperimentTests.cs" />
+    <Compile Include="IntegerSiblings.cs" />
     <Compile Include="MultipleInterface.cs" />
     <Compile Include="MyBase.cs" />
     <Compile Include="DataStructures\MyLinkedList.cs" />
